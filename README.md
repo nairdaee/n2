@@ -16,6 +16,8 @@ HTML, CSS, VanillaJS
 ### Known Bugs
 No known bugs
 
+### Live link
+https://nairdaee.github.io/navbar/
 
 ## Support and contact information
 Feel free to send me comments,queries and/or feedback via email @etadriano2@gmail.com
